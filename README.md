@@ -1,2 +1,2 @@
 # WeatherApp
-a project for knowing weather of cities.
+a project for knowing weather and climate of cities.
